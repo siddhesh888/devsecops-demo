@@ -1,2 +1,1 @@
-# devsecops-demo
-project
+# DevSecOps Demo Project
